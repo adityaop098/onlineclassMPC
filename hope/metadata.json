@@ -1,0 +1,5 @@
+{
+  "name": "Sri Chaitanya SR MPC",
+  "description": "Smart Real-time Managed Platform for Classes - A secure, virtual classroom system with admission-based entry and real-time interaction.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"]
+}
